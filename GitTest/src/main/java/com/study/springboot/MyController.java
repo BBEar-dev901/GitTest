@@ -11,6 +11,7 @@ public class MyController {
 	//clone: 복제(서버저장소를 로컬에 보관함)
 	//master: 최상단 소스노드
 	//branch: 가지치기
+	//dldidkk
 	
 	//이클립스 프로젝스소스 폴더
 	//   |        ^
@@ -19,6 +20,6 @@ public class MyController {
 	//   |      ^
 	//   v push | pull
 	//원격 저장소(Github 서버)
-	
+	//
 	
 }
